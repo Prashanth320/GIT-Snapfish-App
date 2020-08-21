@@ -1,0 +1,6 @@
+public class WelcomeNote{
+
+	public String Welcome(){
+		return "Welcome to Git hub";
+	}
+}
